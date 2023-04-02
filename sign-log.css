@@ -1,0 +1,11 @@
+input:focus{
+    background-color: aquamarine;
+}
+label:hover{
+    background-color: blue;
+    cursor: pointer;
+}
+button:hover{
+    font-size: 30px;
+    cursor: pointer;
+}
