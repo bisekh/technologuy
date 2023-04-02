@@ -1,0 +1,15 @@
+
+.navigation{
+    text-decoration: none;
+    text-align: right;
+    cursor: pointer;
+    padding: 18px;
+    margin: auto;
+    word-spacing: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    background-image: url(eso1907a.jpg.crdownload);
+    background-position: center;
+    background-size: cover;
+}
+
+
